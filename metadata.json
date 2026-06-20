@@ -1,0 +1,6 @@
+{
+  "name": "Imantados",
+  "description": "Diseña figuras e imanes personalizados en tiempo real con catálogo interactivo, chat y pasarela de pago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
